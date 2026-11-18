@@ -1,0 +1,24 @@
+
+FEATURE IMPORTANCE RANKING:
+
+      Feature       Importance
+      num__X6       0.098390
+      num__X5       0.064849
+      num__X1       0.059048
+      num__X12      0.058163
+      num__X13      0.053969
+      num__X18      0.049736
+      num__X17      0.049629
+      num__X14      0.049546
+      num__X16      0.048737
+      num__X15      0.048031
+      num__X20      0.046380
+      num__X19      0.046016
+      num__X23      0.045021
+      num__X22      0.042407
+      num__X21      0.042182
+
+Top 15 Feature Importance
+
+The feature num__X6 has the highest importance score of 0.098390.
+The feature num__X21 has the lowest importance score among the top 15, with 0.042182.
