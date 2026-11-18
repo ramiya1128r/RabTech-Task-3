@@ -1,0 +1,19 @@
+
+PREPROCESSING PIPELINE COMPLETED
+
+Training records: 24000
+Testing records: 6000
+
+MODEL ACCURACY:
+0.8105
+
+CLASSIFICATION REPORT:
+
+              precision    recall    f1-score    support
+
+           0       0.84      0.94       0.89       4673
+           1       0.62      0.36       0.46       1327
+
+    accuracy                          0.81       6000
+   macro avg       0.73      0.65       0.67       6000
+weighted avg       0.79      0.81       0.79       6000
